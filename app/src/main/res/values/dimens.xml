@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--定义尺寸资源-->
+    <dimen name="tv_w">100dp</dimen>
+    <dimen name="tv_h">100dp</dimen>
+    <dimen name="tv_L">10dp</dimen>
+    <dimen name="tv_size">10sp</dimen>
+
+</resources>

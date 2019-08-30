@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--定义字符串元素-->
+    <string-array name="ctype">
+        <item>全部</item>
+        <item>电影</item>
+        <item>娱乐</item>
+        <item>图书</item>
+        <item>运动</item>
+
+        <item>电影</item>
+        <item>娱乐</item>
+        <item>图书</item>
+        <item>运动</item>
+
+        <item>电影</item>
+        <item>娱乐</item>
+        <item>图书</item>
+        <item>运动</item>
+
+        <item>电影</item>
+        <item>娱乐</item>
+        <item>图书</item>
+        <item>运动</item>
+    </string-array>
+
+    <!--定义整数类型数组-->
+    <integer-array name="textInt">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+</resources>

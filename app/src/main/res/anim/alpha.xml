@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- alpha 设置透明度
+        fromAlpha ：  起始点的透明度
+        toAlpha   ：  结束点的透明度
+        duration  ：  设置透明度渐变的时间 已毫秒为单位
+        repeatCount： 设置重复次数
+        repeatMode：  reverse(反向) | restart(重新开始)  设置重复方式
+    -->
+    <alpha
+        android:fromAlpha="0.5"
+        android:toAlpha="1"
+        android:duration="2000"
+        />
+
+</set>
